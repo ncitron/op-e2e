@@ -1,6 +1,6 @@
 ## op-e2e &nbsp;:green_circle:
 
-[![build](https://github.com/ncitron/op-e2e/actions/workflows/test.yml/badge.svg)](https://github.com/ncitron/op-e2e/actions/workflows/test.yml)
+<!-- [![build](https://github.com/ncitron/op-e2e/actions/workflows/test.yml/badge.svg)](https://github.com/ncitron/op-e2e/actions/workflows/test.yml) -->
 [![license: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://opensource.org/license/mit/)
 [![chat](https://img.shields.io/badge/chat-discord-blue)](https://discord.gg/optimism)
 
